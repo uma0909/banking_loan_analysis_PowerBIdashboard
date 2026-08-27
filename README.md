@@ -245,4 +245,4 @@ This dashboard enables financial analysts and decision-makers to:
 * Identify good and bad loan segments
 * Assess geographic and demographic lending patterns
 * Review detailed loan-level records for operational analysis
-#### The following is readme file is AI generated with mindful prompt instruction given by me , If you still feel you want more context please do contact me with email address provided in my git, Don't blindly copy the project as I am happy to help :) 
+#### The following readme file is AI generated with mindful prompt instruction given by me , If you still feel you want more context please do contact me with email address provided in my git, Don't blindly copy the project as I am happy to help :) 
