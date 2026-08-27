@@ -69,7 +69,12 @@ Metrics analyzed include total applications, funded amount, amount received, ave
 
 ### 2. Overview Dashboard
 
-Provides interactive analysis of lending trends, geographic distribution, and borrower demographics.
+Provides interactive analysis of lending trends, geographic distribution, and borrower demographics.Images of dashboard landing pages
+<img width="1556" height="877" alt="image" src="https://github.com/user-attachments/assets/da6e2b3b-472e-47ee-a881-1abdaa601ff8" />
+<img width="1547" height="872" alt="image" src="https://github.com/user-attachments/assets/21518fb6-91a3-4cb6-8d7b-61a101efb4cd" />
+<img width="1532" height="875" alt="image" src="https://github.com/user-attachments/assets/5f6fc4ed-0510-4be1-b812-fc112a103729" />
+
+
 
 #### Monthly Trends
 
@@ -240,4 +245,4 @@ This dashboard enables financial analysts and decision-makers to:
 * Identify good and bad loan segments
 * Assess geographic and demographic lending patterns
 * Review detailed loan-level records for operational analysis
-*** The following is AI generated with mindful prompt instruction given by me , If you still feel you want more context please do contact me with email address provided in my git, Don't blindly copy the project as I am happy to help :) 
+#### The following is AI generated with mindful prompt instruction given by me , If you still feel you want more context please do contact me with email address provided in my git, Don't blindly copy the project as I am happy to help :) 
